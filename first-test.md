@@ -7,11 +7,13 @@ summary: 'Resumo brabo'
 ---
 ## Desenvolvendo aplicações web modernas com Next.js 13 e Tailwind CSS
 
+
 O desenvolvimento de aplicações web modernas exige ferramentas e tecnologias que permitam a criação de aplicações rápidas, escaláveis e de alta qualidade. Uma das soluções mais populares para atender a essas necessidades é o uso de **Next.js 13** e **Tailwind CSS** em conjunto. Next.js 13 é um framework para aplicações web baseado em React que fornece funcionalidades como roteamento de página e geração de páginas estáticas. Tailwind CSS é uma ferramenta de estilo CSS que permite criar estilos personalizados de forma rápida e fácil.Neste artigo, mostraremos como essas tecnologias podem ser usadas em conjunto para construir uma aplicação web moderna.
 
 Veremos como implementar recursos comuns como formulários e tabelas, e como aplicar estilos personalizados com Tailwind CSS. Ao final deste artigo, você estará pronto para começar a desenvolver suas próprias aplicações com Next.js 13 e Tailwind CSS.
 
 ## Desenvolvendo uma aplicação com Next.js 13:
+
 
 O primeiro passo para desenvolver uma aplicação com Next.js 13 é instalar o framework em seu ambiente de desenvolvimento. Isso pode ser feito com o comando npm install next react react-dom em um terminal. Em seguida, crie um arquivo chamado `pages/index.js` com o seguinte conteúdo:
 ```ts
