@@ -4,6 +4,7 @@ date: '2022-12-10'
 tags: ['next.js', 'tailwind.css', 'react-hook-form']
 draft: false
 summary: 'Resumo brabo'
+path: frontend/first-frontend
 ---
 ## Desenvolvendo aplicações web modernas com Next.js 13 e Tailwind CSS
 
