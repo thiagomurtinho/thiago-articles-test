@@ -4,7 +4,7 @@ date: '2022-12-10'
 tags: ['next.js', 'tailwind.css', 'react-hook-form']
 draft: true
 summary: 'Resumo brabo'
-path: category-test/test-artigo-&-categoria
+path: category-test/test-artigo-categoria
 ---
 
 ## Desenvolvendo aplicações web modernas com Next.js 13 e Tailwind CSS
