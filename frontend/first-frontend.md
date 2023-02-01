@@ -1,5 +1,5 @@
 ---
-title: 'Artigo Nexjs do futuro'
+title: 'First Frontend Article'
 date: '2022-12-10'
 tags: ['next.js', 'tailwind.css', 'react-hook-form']
 draft: false
