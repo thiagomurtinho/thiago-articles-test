@@ -4,6 +4,7 @@ date: '2023-01-22'
 tags: ['void', 'promise', 'words']
 draft: false
 summary: 'The most complete resumo of nothing'
+path: pre-release/start-on-end-for-finish-on-middle
 ---
 ## This is the borns for my words
 
