@@ -7,7 +7,7 @@ summary: 'Markdown cheatsheet for all your blogging needs - headers, lists, imag
 path: backend/first-backend
 ---
 
-# Introduction 🚀 v2.6
+# Introduction 🚀 v2.7
 
 Markdown and Mdx parsing is supported via `unified`, and other remark and rehype packages. `next-mdx-remote` allows us to parse `.mdx` and `.md` files in a more flexible manner without touching webpack.
 
